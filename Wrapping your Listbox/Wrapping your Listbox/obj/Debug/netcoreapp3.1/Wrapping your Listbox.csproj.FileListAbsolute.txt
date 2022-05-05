@@ -1,0 +1,20 @@
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\bin\Debug\netcoreapp3.1\Wrapping your Listbox.exe
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\bin\Debug\netcoreapp3.1\Wrapping your Listbox.deps.json
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\bin\Debug\netcoreapp3.1\Wrapping your Listbox.runtimeconfig.json
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\bin\Debug\netcoreapp3.1\Wrapping your Listbox.runtimeconfig.dev.json
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\bin\Debug\netcoreapp3.1\Wrapping your Listbox.dll
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\bin\Debug\netcoreapp3.1\Wrapping your Listbox.pdb
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox.csproj.AssemblyReference.cache
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox_MarkupCompile.cache
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox_MarkupCompile.lref
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox.g.resources
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox.AssemblyInfoInputs.cache
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox.AssemblyInfo.cs
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox.dll
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox.pdb
+C:\Users\Dylan\Documents\CIT195\Wrapping your Listbox\Wrapping your Listbox\obj\Debug\netcoreapp3.1\Wrapping your Listbox.genruntimeconfig.cache
